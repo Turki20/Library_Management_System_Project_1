@@ -9,7 +9,6 @@ A simple educational project written in **Python** designed to train students on
 - Loops  
 - Conditional Statements  
 - Functions  
-- Exception Handling  
 
 The program simulates a **basic library management system**, allowing the user to:
 1. Add a new book.  
